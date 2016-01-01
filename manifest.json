@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Vote the 6ix",
-  "description": "Want to help get Kyle Lowry and Demar Derozan to the NBA All-Star game in Toronto?  With Vote the 6ix, you can tweet your vote for either of these players with three simple clicks!  Select your player and your tweet will be pregenerated with their name and the NBAVote hashtag.  Vote the 6ix now!",
+  "description": "With Vote the 6ix, you can tweet your NBA All-Star vote for Kyle Lowry or Demar Derozan in three simple clicks!",
   "version": "1.0",
 
   "browser_action": {
