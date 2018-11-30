@@ -6,8 +6,15 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-  document.getElementById('demar').addEventListener('click', function() {
-  	window.open("https://twitter.com/intent/tweet?button_hashtag=NBAVote Demar Derozan");
+  document.getElementById('kawhi').addEventListener('click', function() {
+  	window.open("https://twitter.com/intent/tweet?button_hashtag=NBAVote Kawhi Leonard);
+  });
+
+});
+
+document.addEventListener('DOMContentLoaded', function () {
+  document.getElementById('pascal').addEventListener('click', function() {
+  	window.open("https://twitter.com/intent/tweet?button_hashtag=NBAVote Pascal Siakam);
   });
 
 });
